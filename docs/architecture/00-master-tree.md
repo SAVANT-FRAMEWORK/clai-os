@@ -92,7 +92,7 @@ conformance evidence lives inside it — never in prose documents elsewhere.
 ### Rule M-3 — Grant Deliverable Mapping
 
 Every grant deliverable maps 1:1 to a directory inside the target's directory in `grants/`,
-and the directory name is the funder's canonical slug (e.g., `doj-ojjdp/`). Tranche
+and the directory name is the funder's canonical slug (e.g., `target-XX/`). Tranche
 evidence is metric-gated and Hyperledger-anchored; a deliverable without a directory is an
 unfunded promise, and a directory without a deliverable mapping is deleted at the next S50
 gate review. Targets 11–24 of the portfolio exist as honestly-reserved placeholders

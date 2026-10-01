@@ -275,7 +275,7 @@ the per-adapter jurisdiction assignments are enumerated in the adapter index ins
   resolution — the demo form of ADR-003 and PPA-004.
 - **Maps to:** patent claim PPA-004; compliance requirement — data-residency evidence
   cited by `compliance/ndpr-gdpr-bridge/`; grant deliverable for connectivity-poor
-  deployment targets (`african-development-bank/`, `unicef-innovation/`).
+  deployment targets (`target-XX/`, `target-XX/`).
 - **Will live here:** demo protocol, timer/witness procedure, expected merge evidence.
 - **Governing agent/phase:** Agent 09 runs; Agent 06 witnesses in field conditions.
 
