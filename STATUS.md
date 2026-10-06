@@ -62,6 +62,26 @@ Last updated: initial public mirror release.
 | `PPA-004` | PENDING — progressive public release | Local implementation-evidence bundle for offline CRDT synchronization (filed): merge proofs, soak-test records, divergence/merge traces. |
 | `PPA-006-planned-not-filed` | PENDING — progressive public release | Jurisdiction Compiler workspace (planned, **not filed**): compiler design notes, draft-claim-to-adapter traceability, prior-art log. See [PATENTS.md](PATENTS.md) Section 3. |
 
+
+## Deployment Agent Corpus — CLAI-OS Track (2026-10-06)
+
+The CLAI-OS deployment agent corpus (v2.0) is canonical: ten specialist agents
+(CLAI-DEPLOY-01..10) spanning publication, regulation, funding, partnership,
+validation, FHIR integration, community, co-authorship, precision medicine, and
+master orchestration. Agents are licensed Savant-Commercial-1.0 — public
+catalog, SIP trigger matrix, and SHA-256 existence-commitments live in
+[savant-prompts](https://github.com/SAVANT-FRAMEWORK/savant-prompts) and the
+[agent stack documentation](https://savant-framework.github.io/savant-docs/agents/).
+Full RASCEF bodies remain commercial.
+
+Governance: PRIME → S1 → S50 → S52. Clinical invariant: no autonomous clinical
+diagnosis without human-in-the-loop at T2 minimum.
+
+Corpus-map note (2026-10-06): the canonical range is now P-051–P-110 —
+P-051–P-070 sovereign infrastructure (AGPL-3.0, this repository),
+P-071–P-090 Clinical Human Good and P-091–P-110 Precision Oncology & Global
+Health (Savant-Commercial-1.0; ledger rows in savant-prompts).
+
 ---
 
 *Entries are removed from this file only in the commit that lands the subsystem's
