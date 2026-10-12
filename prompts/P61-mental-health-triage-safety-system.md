@@ -139,7 +139,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P61-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P61) | Asia-Pacific (P61-AM) |
@@ -195,7 +195,7 @@ P61-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (K6 instrument, Lifelink and Yorisoi hotlines, home-visit nursing/kaigo, hikikomori); Korea (129/119 crisis lines, 24-hour community mental health centers, CSAT exam-stress screening); China (400-161-9995, Gaokao stress, family plus village doctor in rural areas); Singapore (SOS, IMH emergency); India (Kiran 1800-599-0019, somatized presentations).
+Named jurisdiction examples: Japan (K6 instrument, Lifelink and Yorisoi hotlines, home-visit nursing/kaigo, hikikomori); Korea (129/119 crisis lines, 24-hour community mental health centers, CSAT exam-stress screening); China (400-161-9995, Gaokao stress, family plus village doctor in rural areas); Singapore (SOS, IMH emergency); India (Kiran 1800-599-0019, somatized presentations).
 
 ### Regional Adapters
 

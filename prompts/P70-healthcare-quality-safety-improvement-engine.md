@@ -124,7 +124,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P70-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P70) | Asia-Pacific (P70-AM) |
@@ -195,7 +195,7 @@ P70-AM EXTENDED ACTIONS:
 
 ---
 
-#### Implementation Architecture: The Advanced Markets CLAI-OS Node (from the source extension)
+#### Implementation Architecture: The Advanced Markets CLAI-OS Node
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -245,32 +245,30 @@ P70-AM EXTENDED ACTIONS:
 │              CLAI-OS ADVANCED MARKETS GOVERNANCE                        │
 │              (Regulatory-Harmonized, Market-Sustainable)                  │
 │                                                                          │
-│  OWNERSHIP STRUCTURE:                                                    │
-│  ├─ Savant Framework LLC (Nigeria) holds global IP and architecture      │
+│  GOVERNANCE STRUCTURE:                                                   │
+│  ├─ SAVANT FRAMEWORK (Nigeria) holds global IP and architecture          │
 │  ├─ Local operating entities in target markets (Japan, Singapore,       │
 │  │   Korea, India) for regulatory compliance and data residency         │
-│  ├─ Dual license: Commercial (for-profit hospitals, insurers, pharma)    │
-│  │   + Mission (non-profit, academic, public hospital)                  │
+│  ├─ Dual license: AGPL-3.0 open tier + commercial deployments            │
 │  ├─ Patent defense: Provisional patents filed defensively to prevent      │
 │  │   proprietary capture by Northern vendors                            │
 │  └─ Data trust: Patient data governed by local jurisdiction law          │
 │     (APPI, PIPL, PDPA, HIPAA as applicable)                             │
 │                                                                          │
-│  FUNDING MODEL:                                                          │
-│  ├─ Commercial: For-profit hospitals, insurers, device makers             │
-│  │   [Commercial licensing terms — inquiries via the GitHub organization] │
+│  ACCESS MODEL:                                                           │
+│  ├─ Open: AGPL-3.0 for the open tier (P51–P70)                           │
 │  ├─ Academic: Free for peer-reviewed research with data sharing           │
-│  ├─ Public: Discounted for public hospitals and national health systems   │
-│  └─ Innovation: Prize-based funding for breakthrough improvements        │
+│  ├─ Public: Public hospitals and national health systems prioritized     │
+│  └─ Commercial licensing: inquiries via the GitHub organization          │
 │                                                                          │
-│  VALUE CREATION:                                                         │
-│  ├─ Commercial revenue reinvested in:                                     │
+│  REINVESTMENT COMMITMENT:                                                │
+│  ├─ Program capacity is reinvested in:                                   │
 │  │   1. R&D for next-tier prompts (P71-P90)                            │
-│  │   2. Local team salaries (above-market to retain talent)            │
+│  │   2. Local engineering teams in deployment regions                 │
 │  │   3. Advanced market deployment infrastructure                       │
-│  │   4. Cross-subsidy to Global South deployment (30% of net revenue)   │
-│  └─ Transparent quarterly reporting: Revenue, deployment metrics,         │
-│     equity audits, carbon footprint                                      │
+│  │   4. Global South deployment support                               │
+│  └─ Transparent reporting: deployment metrics, equity audits,            │
+│     carbon footprint                                                     │
 │                                                                          │
 │  ACCOUNTABILITY:                                                         │
 │  ├─ Local regulatory compliance: PMDA, NMPA, MFDS, HSA, CDSCO, FDA       │
@@ -282,7 +280,7 @@ P70-AM EXTENDED ACTIONS:
 
 ---
 
-#### Summary: The Advanced Markets Prompt Architecture (from the source extension)
+#### Summary: The Advanced Markets Prompt Architecture
 
 | Prompt | Original Focus | Advanced Markets Extension |
 |--------|---------------|---------------------------|
@@ -312,7 +310,7 @@ P70-AM EXTENDED ACTIONS:
 *End of Advanced Markets Extension — CLAI-OS v1.0-AM*
 *"The best medical AI is not the most Western. It is the most precise for the population it serves."*
 
-Named jurisdiction examples (from the source): Japan (kaizen and 5S integration, nurse-led quality circles, DPC quality indicators, karoshi burnout monitoring); Korea (HIRA quality assessment, physician-champion model, 100+ hour resident weeks); Singapore (MOH clinical quality indicators, migrant-worker language safety); China (3A hospital tier standards, character-similarity drug errors); India (NQAS, overcrowding safety at 200%+ bed occupancy).
+Named jurisdiction examples: Japan (kaizen and 5S integration, nurse-led quality circles, DPC quality indicators, karoshi burnout monitoring); Korea (HIRA quality assessment, physician-champion model, 100+ hour resident weeks); Singapore (MOH clinical quality indicators, migrant-worker language safety); China (3A hospital tier standards, character-similarity drug errors); India (NQAS, overcrowding safety at 200%+ bed occupancy).
 
 ### Regional Adapters
 

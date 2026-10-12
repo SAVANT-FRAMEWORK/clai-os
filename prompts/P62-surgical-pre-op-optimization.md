@@ -154,7 +154,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P62-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P62) | Asia-Pacific (P62-AM) |
@@ -210,7 +210,7 @@ P62-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (E-PASS, JCVB bleeding validation, ERAS with carbohydrate loading and day-0 mobilization, pre-op autologous donation, Da Vinci adoption, same-day surgery); Korea (robotic surgery volume, sevoflurane/propofol standard); Singapore (same-day surgery, forced-air warming standard); China (acupuncture-assisted anesthesia in TCM-integrated hospitals, urban robotic adoption); India (directed family donation where supply is intermittent).
+Named jurisdiction examples: Japan (E-PASS, JCVB bleeding validation, ERAS with carbohydrate loading and day-0 mobilization, pre-op autologous donation, Da Vinci adoption, same-day surgery); Korea (robotic surgery volume, sevoflurane/propofol standard); Singapore (same-day surgery, forced-air warming standard); China (acupuncture-assisted anesthesia in TCM-integrated hospitals, urban robotic adoption); India (directed family donation where supply is intermittent).
 
 ### Regional Adapters
 

@@ -77,10 +77,11 @@ Full RASCEF bodies remain commercial.
 Governance: PRIME → S1 → S50 → S52. Clinical invariant: no autonomous clinical
 diagnosis without human-in-the-loop at T2 minimum.
 
-Corpus-map note (2026-10-06): the canonical range is now P-051–P-110 —
+Corpus-map note (2026-10-12): the canonical range is now P-051–P-110 —
 P-051–P-070 sovereign infrastructure (AGPL-3.0, this repository),
 P-071–P-090 Clinical Human Good and P-091–P-110 Precision Oncology & Global
-Health (Savant-Commercial-1.0; ledger rows in savant-prompts).
+Health (open documentation release — de-commercialized 2026-10-12; prompt
+bodies withheld for validation; ledger rows in savant-prompts).
 
 ---
 

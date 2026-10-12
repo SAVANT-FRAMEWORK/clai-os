@@ -153,7 +153,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P69-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P69) | Asia-Pacific (P69-AM) |
@@ -227,7 +227,7 @@ P69-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (kodokushi isolated-elderly nutrition prevention, municipal meal-delivery linkage); East Asia (AWGS sarcopenia screening, TCM food therapy under evidence discipline); India (Ayurvedic dosha frameworks evaluated with rigor); Asia-Pacific urban centers (NAFLD management for nutrition transition).
+Named jurisdiction examples: Japan (kodokushi isolated-elderly nutrition prevention, municipal meal-delivery linkage); East Asia (AWGS sarcopenia screening, TCM food therapy under evidence discipline); India (Ayurvedic dosha frameworks evaluated with rigor); Asia-Pacific urban centers (NAFLD management for nutrition transition).
 
 ### Regional Adapters
 

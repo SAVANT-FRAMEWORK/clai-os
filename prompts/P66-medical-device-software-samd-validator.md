@@ -125,7 +125,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P66-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P66) | Asia-Pacific (P66-AM) |
@@ -193,7 +193,7 @@ P66-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (PMDA, Fitzpatrick III-IV cohorts); China (NMPA, local manufacturing ecosystems); Korea (MFDS); Singapore (HSA); India (CDSCO, frugal innovation tier); the source's summary table maps P66-AM to PMDA/NMPA/MFDS/HSA/CDSCO pathways, Fitzpatrick III-V validation, Asian eye anatomy, and local manufacturing.
+Named jurisdiction examples: Japan (PMDA, Fitzpatrick III-IV cohorts); China (NMPA, local manufacturing ecosystems); Korea (MFDS); Singapore (HSA); India (CDSCO, frugal innovation tier); the canonical summary table maps P66-AM to PMDA/NMPA/MFDS/HSA/CDSCO pathways, Fitzpatrick III-V validation, Asian eye anatomy, and local manufacturing.
 
 ### Regional Adapters
 

@@ -141,7 +141,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P65-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P65) | Asia-Pacific (P65-AM) |
@@ -207,7 +207,7 @@ P65-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (PMDA simultaneous submission, elderly-inclusive design for super-aging populations); China (NMPA pathway, bridging studies); Korea (MFDS); Singapore (HSA, PDPA-governed data sharing); India (CDSCO); the source's summary table maps P65-AM to multi-regulatory simultaneous submission, basket trials, bridging studies, and elderly-inclusive enrollment.
+Named jurisdiction examples: Japan (PMDA simultaneous submission, elderly-inclusive design for super-aging populations); China (NMPA pathway, bridging studies); Korea (MFDS); Singapore (HSA, PDPA-governed data sharing); India (CDSCO); the canonical summary table maps P65-AM to multi-regulatory simultaneous submission, basket trials, bridging studies, and elderly-inclusive enrollment.
 
 ### Regional Adapters
 

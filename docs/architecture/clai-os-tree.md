@@ -116,8 +116,7 @@ ADR-007; adapters are never forked).
   clinical data natively in FHIR R4; there is no translation layer in which clinical
   meaning can be lost (ADR-006).
 - **Maps to:** compliance requirement — interoperability obligations in clinical
-  procurement; grant deliverables for health-sector targets (`nih-nci/`,
-  `wellcome-trust/`).
+  procurement; grant deliverables for health-sector targets.
 - **Will live here:** the three subdirectories below only.
 - **Governing agent/phase:** Agent 04 (Backend/Hub); continuous.
 
@@ -179,7 +178,7 @@ ADR-007; adapters are never forked).
   contraindicated drug-drug pairs) with pre-registered expected outputs; any output drift
   is a defect in the kernel, not in the test.
 - **Maps to:** patent claim PPA-002 evidence; grant deliverable — regression evidence for
-  health-sector funders (`nih-nci/`, `wellcome-trust/`).
+  health-sector deployment targets.
 - **Will live here:** synthetic bundles, expected outputs, drift reports.
 - **Governing agent/phase:** Agent 09 (Evaluation) curates; run at every gate.
 
@@ -275,7 +274,7 @@ the per-adapter jurisdiction assignments are enumerated in the adapter index ins
   resolution — the demo form of ADR-003 and PPA-004.
 - **Maps to:** patent claim PPA-004; compliance requirement — data-residency evidence
   cited by `compliance/ndpr-gdpr-bridge/`; grant deliverable for connectivity-poor
-  deployment targets (`target-XX/`, `target-XX/`).
+  deployment targets.
 - **Will live here:** demo protocol, timer/witness procedure, expected merge evidence.
 - **Governing agent/phase:** Agent 09 runs; Agent 06 witnesses in field conditions.
 
@@ -284,7 +283,7 @@ the per-adapter jurisdiction assignments are enumerated in the adapter index ins
   exchange bundles with CLAI-OS against the pinned profiles, proving nativity rather than
   adaptation (ADR-006).
 - **Maps to:** compliance requirement — interop attestations; grant deliverable for
-  `horizon-europe/` and `nih-nci/`.
+  interoperability milestones.
 - **Will live here:** partner-server matrix, exchange scripts, conformance scorecards.
 - **Governing agent/phase:** Agent 04; run at each release gate.
 

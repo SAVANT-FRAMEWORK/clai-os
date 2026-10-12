@@ -67,8 +67,8 @@ Appropriate use:
 Limitations:
 
 - This is not a medical device, a clinical decision-support product, or a standard of care. Nothing in this document may be used to direct diagnosis, treatment, dosing, or triage for any patient.
-- Genomic and oncology statements reflect only the claims made in the source compendium; publication of this documentation does not constitute independent clinical validation.
-- Assay sensitivities and marker lists are the design specifications in the source compendium and are not a substitute for current EuroFlow, ELN, or institutional MRD standards.
+- Genomic and oncology statements reflect only the claims made in the canonical compendium; publication of this documentation does not constitute independent clinical validation.
+- Assay sensitivities and marker lists are the design specifications in the canonical compendium and are not a substitute for current EuroFlow, ELN, or institutional MRD standards.
 
 ---
 

@@ -152,7 +152,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P63-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P63) | Asia-Pacific (P63-AM) |
@@ -220,7 +220,7 @@ P63-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (Kawasaki disease, IgA nephropathy); East Asia broadly (Takayasu arteritis, Wilson disease, HBV-associated polyarteritis); China (BGI/MGI local sequencing, cost-cascaded testing); South and Southeast Asia (thalassemia screening programs, consanguinity-aware analysis); the source's summary table maps P63-AM to Kawasaki, IgA nephropathy, Takayasu, MPS, Wilson, and HBV-PAN presentations.
+Named jurisdiction examples: Japan (Kawasaki disease, IgA nephropathy); East Asia broadly (Takayasu arteritis, Wilson disease, HBV-associated polyarteritis); China (BGI/MGI local sequencing, cost-cascaded testing); South and Southeast Asia (thalassemia screening programs, consanguinity-aware analysis); the canonical summary table maps P63-AM to Kawasaki, IgA nephropathy, Takayasu, MPS, Wilson, and HBV-PAN presentations.
 
 ### Regional Adapters
 

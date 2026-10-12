@@ -117,6 +117,5 @@ for any party instituting patent litigation against the project. See
 
 ---
 
-*CLAI-OS is a constitutional instantiation of the SAVANT FRAMEWORK. The private
-development repository will be renamed `clai-os-internal`; this is the canonical
-public mirror.*
+*CLAI-OS is a constitutional instantiation of the SAVANT FRAMEWORK; this is the
+canonical public repository.*

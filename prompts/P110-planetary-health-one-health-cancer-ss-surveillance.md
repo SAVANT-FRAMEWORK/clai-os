@@ -69,8 +69,8 @@ Appropriate use:
 Limitations:
 
 - This is not a medical device, a clinical decision-support product, or a standard of care. Nothing in this document may be used to direct diagnosis, treatment, dosing, or triage for any patient.
-- Genomic and oncology statements reflect only the claims made in the source compendium; publication of this documentation does not constitute independent clinical validation.
-- Exposure-disease correlations cited above are the associations stated in the source compendium; they describe surveillance hypotheses and do not establish individual-level causation.
+- Genomic and oncology statements reflect only the claims made in the canonical compendium; publication of this documentation does not constitute independent clinical validation.
+- Exposure-disease correlations cited above are the associations stated in the canonical compendium; they describe surveillance hypotheses and do not establish individual-level causation.
 
 ---
 

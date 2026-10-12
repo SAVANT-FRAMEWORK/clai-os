@@ -157,7 +157,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P68-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P68) | Asia-Pacific (P68-AM) |
@@ -225,7 +225,7 @@ P68-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (super-aging frailty programs, robotic rehabilitation, kaigo caregiver context); China (taichi/qigong-integrated therapy, hip-fracture cascade in aging urban populations); India and South Asia (yoga-integrated therapy); Singapore (inpatient rehabilitation at parity with Japan/Korea, per the P68-AM source).
+Named jurisdiction examples: Japan (super-aging frailty programs, robotic rehabilitation, kaigo caregiver context); China (taichi/qigong-integrated therapy, hip-fracture cascade in aging urban populations); India and South Asia (yoga-integrated therapy); Singapore (inpatient rehabilitation at parity with Japan/Korea, per the P68-AM source).
 
 ### Regional Adapters
 

@@ -68,8 +68,8 @@ Appropriate use:
 Limitations:
 
 - This is not a medical device, a clinical decision-support product, or a standard of care. Nothing in this document may be used to direct diagnosis, treatment, dosing, or triage for any patient.
-- Genomic and oncology statements reflect only the claims made in the source compendium; publication of this documentation does not constitute independent clinical validation.
-- Toxicity-management doses quoted above reproduce the design specification in the source compendium; they are not prescribing guidance and must yield to current ASTCT/institutional protocols.
+- Genomic and oncology statements reflect only the claims made in the canonical compendium; publication of this documentation does not constitute independent clinical validation.
+- Toxicity-management doses quoted above reproduce the design specification in the canonical compendium; they are not prescribing guidance and must yield to current ASTCT/institutional protocols.
 
 ---
 

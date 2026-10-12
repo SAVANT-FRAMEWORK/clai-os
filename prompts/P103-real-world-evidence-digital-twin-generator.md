@@ -68,7 +68,7 @@ Appropriate use:
 Limitations:
 
 - This is not a medical device, a clinical decision-support product, or a standard of care. Nothing in this document may be used to direct diagnosis, treatment, dosing, or triage for any patient.
-- Genomic and oncology statements reflect only the claims made in the source compendium; publication of this documentation does not constitute independent clinical validation.
+- Genomic and oncology statements reflect only the claims made in the canonical compendium; publication of this documentation does not constitute independent clinical validation.
 - Synthetic control methodology described here is a research design; acceptability for any regulatory submission is determined solely by the relevant agency on a fit-for-purpose basis.
 
 ---

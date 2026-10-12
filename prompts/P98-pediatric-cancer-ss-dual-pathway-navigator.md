@@ -68,8 +68,8 @@ Appropriate use:
 Limitations:
 
 - This is not a medical device, a clinical decision-support product, or a standard of care. Nothing in this document may be used to direct diagnosis, treatment, dosing, or triage for any patient.
-- Genomic and oncology statements reflect only the claims made in the source compendium; publication of this documentation does not constitute independent clinical validation.
-- Pediatric contraindications and transfusion parameters are design specifications from the source compendium; pediatric oncology care remains governed by current COG/SIOP protocols and specialist judgment.
+- Genomic and oncology statements reflect only the claims made in the canonical compendium; publication of this documentation does not constitute independent clinical validation.
+- Pediatric contraindications and transfusion parameters are design specifications from the canonical compendium; pediatric oncology care remains governed by current COG/SIOP protocols and specialist judgment.
 
 ---
 

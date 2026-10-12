@@ -136,7 +136,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P67-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P67) | Asia-Pacific (P67-AM) |
@@ -203,11 +203,11 @@ P67-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Singapore (MOH + NEHR + NEA environmental/mosquito surveillance); Japan (NDB claims + pediatric sentinel surveillance); Korea (KDCA + HIRA claims); India (IDSP + IHIP + community radio).
+Named jurisdiction examples: Singapore (MOH + NEHR + NEA environmental/mosquito surveillance); Japan (NDB claims + pediatric sentinel surveillance); Korea (KDCA + HIRA claims); India (IDSP + IHIP + community radio).
 
 ### Regional Adapters
 
-Regional adapters set the disease panel, signal sources, and notification lines. -AF (Africa): the -G variant is primary — IDSR alignment, One Health fusion, rumor verification from radio and social media, paper-and-QR contact tracing with landmark ontology, IoT cold-chain prediction, pandemic-equity procurement enforcement. -AR (Arab region): -G event-based modules for conflict and displacement settings; humanitarian coordination reporting; cholera/yellow-fever-class panels per regional epidemiology. -US: the base specification as written — CDC/WHO case definitions, ESSENCE-class syndromic feeds, EHR and laboratory integration, health-department and CDC notification. APAC: the -AM variant — HFMD, dengue, avian influenza, Nipah, Japanese encephalitis, melioidosis panels; poultry/bat One Health interfaces; jurisdiction infrastructure per the source — Singapore (MOH, NEHR, NEA environmental/mosquito surveillance), Japan (NDB claims, pediatric sentinel surveillance), Korea (KDCA, HIRA claims), India (IDSP, IHIP, community radio). Adapters are configuration packs (disease panel, case-definition versions, signal source connectors, notification endpoints); none permits outbreak declaration by the system — that authority is always human and designated.
+Regional adapters set the disease panel, signal sources, and notification lines. -AF (Africa): the -G variant is primary — IDSR alignment, One Health fusion, rumor verification from radio and social media, paper-and-QR contact tracing with landmark ontology, IoT cold-chain prediction, pandemic-equity procurement enforcement. -AR (Arab region): -G event-based modules for conflict and displacement settings; humanitarian coordination reporting; cholera/yellow-fever-class panels per regional epidemiology. -US: the base specification as written — CDC/WHO case definitions, ESSENCE-class syndromic feeds, EHR and laboratory integration, health-department and CDC notification. APAC: the -AM variant — HFMD, dengue, avian influenza, Nipah, Japanese encephalitis, melioidosis panels; poultry/bat One Health interfaces; jurisdiction infrastructure per the canonical documentation — Singapore (MOH, NEHR, NEA environmental/mosquito surveillance), Japan (NDB claims, pediatric sentinel surveillance), Korea (KDCA, HIRA claims), India (IDSP, IHIP, community radio). Adapters are configuration packs (disease panel, case-definition versions, signal source connectors, notification endpoints); none permits outbreak declaration by the system — that authority is always human and designated.
 
 ## Jurisdiction Matrix
 
@@ -246,7 +246,7 @@ Advanced Markets (P67-AM): Asia-Pacific disease panels (HFMD, dengue, avian infl
 
 **Global Equity deployments (-G).** Offline-first on ministry- or institution-controlled infrastructure; open-weight models only (Llama 3, Mistral, Phi-3 class); no closed-API processing of person-identifiable surveillance, rumor, or contact data. Rumor NLP requires local-language training and district-team validation; unverified rumors are labeled at every stage. Verbal autopsy is administered by trained CHWs — the engine dispatches and records, it does not assign cause of death. The equity allocation gate is configured per the governing international framework in force, and every block is audit-logged.
 
-**Advanced Markets deployments (-AM).** Confirm national notifiable-disease lists and exchange specifications (Singapore MOH/NEHR/NEA, Japan NDB and pediatric sentinel surveillance, Korea KDCA/HIRA, India IDSP/IHIP, per the source); any setting-specific surveillance designs require legal review for proportionality.
+**Advanced Markets deployments (-AM).** Confirm national notifiable-disease lists and exchange specifications (Singapore MOH/NEHR/NEA, Japan NDB and pediatric sentinel surveillance, Korea KDCA/HIRA, India IDSP/IHIP, per the canonical documentation); any setting-specific surveillance designs require legal review for proportionality.
 
 **Prerequisites (all variants).** Designated human declaration authority; notification endpoint testing; community relationship protocols; retention and destruction schedules; audit storage.
 

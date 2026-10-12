@@ -120,7 +120,7 @@ Deployment constraint (invariant for this variant): offline-first; open-weight m
 
 ### P64-AM — Advanced Markets Variant
 
-From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists in the source; the variant is specified as deltas against the base prompt.
+From the author's *CLAI-OS Advanced Markets Extension (P51-AM – P70-AM)*. No AM prompt body exists; the variant is specified as deltas against the base prompt.
 
 **What Changes**
 | Dimension | US-Centric (P64) | Asia-Pacific (P64-AM) |
@@ -198,7 +198,7 @@ P64-AM EXTENDED ACTIONS:
 
 ---
 
-Named jurisdiction examples (from the source): Japan (GLI-Asian spirometry references, super-aging stratifiers); China and East Asia (Asian BMI 23/25 cutoffs (WHO Western Pacific), angle-closure glaucoma risk); Southeast Asia and South Asia (acral melanoma awareness); multi-jurisdiction fairness accountability across PMDA, MFDS, NMPA, and HSA contexts as stated in the source's governance framework.
+Named jurisdiction examples: Japan (GLI-Asian spirometry references, super-aging stratifiers); China and East Asia (Asian BMI 23/25 cutoffs (WHO Western Pacific), angle-closure glaucoma risk); Southeast Asia and South Asia (acral melanoma awareness); multi-jurisdiction fairness accountability across PMDA, MFDS, NMPA, and HSA contexts as stated in the canonical governance framework.
 
 ### Regional Adapters
 
