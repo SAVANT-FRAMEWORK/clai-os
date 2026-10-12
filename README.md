@@ -22,7 +22,7 @@ models propose, rules dispose.
 Canonical facts:
 
 - **Deterministic-first safety** — deterministic admission gate between any model
-  output and any actuation, display, or record-write (PPA-002, filed).
+  output and any actuation, display, or record-write (PPA-001, filed).
 - **FHIR R4 native** — clinical data is modeled natively in FHIR R4; there is no
   translation layer in which clinical meaning can be lost.
 - **18-hour offline guarantee** — CRDT synchronization defined natively over FHIR R4

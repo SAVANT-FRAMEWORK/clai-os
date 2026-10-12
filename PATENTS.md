@@ -82,12 +82,12 @@ engine. Full claims filed with the respective patent office.
 ### PPA-003 — LoRa Mesh Safety Infrastructure (AEGIS-NG / AEGIS-GLOBAL)
 
 A safety-alerting infrastructure built on a 433MHz LoRa mesh of
-ultra-low-cost units (reference per-unit cost USD 46.30) providing
+ultra-low-cost units (reference per-unit cost withheld — program documentation) providing
 store-and-forward safety messaging with no dependence on cellular or
 internet infrastructure. Claimed subject matter includes: the mesh routing
 protocol optimized for alert delivery-rate floors under node churn; the
 power and duty-cycle management enabling extended field operation; and the
-cost-reduction architecture achieving the USD 46.30 unit cost while
+cost-reduction architecture achieving the reference per-unit cost (withheld — program documentation) while
 preserving alert integrity, including deterministic-first alert admission
 (analogous to PPA-001) so that automated alert content is rule-gated before
 broadcast. Deployed as AEGIS-NG (national) and AEGIS-GLOBAL (international).

@@ -69,11 +69,11 @@ Canonical patent-to-repository assignment (used consistently across all six tree
 
 | Patent | Title (working) | Owning repository | Status |
 |--------|-----------------|-------------------|--------|
-| PPA-001 | Anti-tamper solar-only mesh node architecture | `aegis-ng` | FILED |
-| PPA-002 | Deterministic-first clinical reasoning kernel | `clai-os` | FILED |
-| PPA-003 | Federated edge learning with differential privacy at zero bandwidth | `aegis-ng` + `clai-os` (joint; claim chart in `savant-core`) | FILED |
-| PPA-004 | Offline CRDT synchronization for intermittently connected sovereign meshes (18h zero bandwidth) | `clai-os` + `aegis-ng` (joint; claim chart in `savant-core`) | FILED |
-| PPA-005 | Bandwidth-zero evaluation methodology (10-metric Bayesian protocol) | `aegis-global` | FILED |
+| PPA-001 | Deterministic-first clinical reasoning | `clai-os` | FILED |
+| PPA-002 | FHIR R4 native offline CRDT synchronization (18h zero bandwidth) | `clai-os` + `aegis-ng` (joint; claim chart in `savant-core`) | FILED |
+| PPA-003 | LoRa mesh safety infrastructure | `aegis-ng` + `aegis-global` | FILED |
+| PPA-004 | Federated edge learning with differential privacy at zero bandwidth | `aegis-ng` + `clai-os` (joint; claim chart in `savant-core`) | FILED |
+| PPA-005 | Metric-gated blockchain grant tranching | `grants` | FILED |
 | PPA-006 | Jurisdiction Compiler (compliance-as-configuration across P61–P70) | `clai-os` | **PLANNED — NOT FILED** |
 
 ### Rule M-2 — Compliance Requirement Mapping
@@ -92,10 +92,10 @@ conformance evidence lives inside it — never in prose documents elsewhere.
 ### Rule M-3 — Grant Deliverable Mapping
 
 Every grant deliverable maps 1:1 to a directory inside the target's directory in `grants/`,
-and the directory name is the funder's canonical slug (e.g., `target-XX/`). Tranche
+and the directory name is the target's canonical slug (e.g., `target-XX/`). Tranche
 evidence is metric-gated and Hyperledger-anchored; a deliverable without a directory is an
 unfunded promise, and a directory without a deliverable mapping is deleted at the next S50
-gate review. Targets 11–24 of the portfolio exist as honestly-reserved placeholders
+gate review. Portfolio targets not yet registered exist as honestly-reserved placeholders
 (`target-11/` … `target-24/`) pending the canonical grant registry; reserved directories are
 labeled as such and contain no invented content.
 

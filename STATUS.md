@@ -34,10 +34,10 @@ Last updated: initial public mirror release.
 
 | Subsystem | Status | Will contain |
 |-----------|--------|--------------|
-| `reasoning-kernels` | PENDING — progressive public release | Specifications of the deterministic reasoning kernels — total, terminating, side-effect-free decision procedures for clinical safety logic (PPA-002). |
+| `reasoning-kernels` | PENDING — progressive public release | Specifications of the deterministic reasoning kernels — total, terminating, side-effect-free decision procedures for clinical safety logic (PPA-001). |
 | `safety-vetoes` | PENDING — progressive public release | The veto layer: contraindication and safety rules whose output overrides any downstream probabilistic recommendation by construction, with precedence proofs and veto-event audit schema. |
 | `golden-cases` | PENDING — progressive public release | Synthetic FHIR R4 bundles (including contraindicated drug–drug pairs) with pre-registered expected outputs; any output drift is a defect in the kernel, not the test. |
-| `crdt-sync` | PENDING — progressive public release | Hub-side offline CRDT synchronization over FHIR R4 resources: merge proofs and 18-hour zero-bandwidth soak-test protocols (PPA-004; twin of `aegis-ng` F-05). |
+| `crdt-sync` | PENDING — progressive public release | Hub-side offline CRDT synchronization over FHIR R4 resources: merge proofs and 18-hour zero-bandwidth soak-test protocols (PPA-002; twin of `aegis-ng` F-05). |
 
 ## FHIR R4 Data Plane (`fhir-r4/`)
 
@@ -52,14 +52,14 @@ Last updated: initial public mirror release.
 | Subsystem | Status | Will contain |
 |-----------|--------|--------------|
 | `fhir-interop` | PENDING — progressive public release | Interoperability demonstration: foreign FHIR R4 servers exchange bundles with CLAI-OS against the pinned profiles, proving nativity rather than adaptation. |
-| `offline-18h` | PENDING — progressive public release | The offline endurance demonstration: 18 hours at zero bandwidth, then CRDT merge with provable zero-loss conflict resolution (the demo form of PPA-004). |
+| `offline-18h` | PENDING — progressive public release | The offline endurance demonstration: 18 hours at zero bandwidth, then CRDT merge with provable zero-loss conflict resolution (the demo form of PPA-002). |
 
 ## Patents Plane (`patents/`)
 
 | Subsystem | Status | Will contain |
 |-----------|--------|--------------|
-| `PPA-002` | PENDING — progressive public release | Local implementation-evidence bundle for the deterministic-first clinical reasoning claim (filed): kernel specs, veto precedence proofs, golden-case results. |
-| `PPA-004` | PENDING — progressive public release | Local implementation-evidence bundle for offline CRDT synchronization (filed): merge proofs, soak-test records, divergence/merge traces. |
+| `PPA-001` | PENDING — progressive public release | Local implementation-evidence bundle for the deterministic-first clinical reasoning claim (filed): kernel specs, veto precedence proofs, golden-case results. |
+| `PPA-002` | PENDING — progressive public release | Local implementation-evidence bundle for offline CRDT synchronization (filed): merge proofs, soak-test records, divergence/merge traces. |
 | `PPA-006-planned-not-filed` | PENDING — progressive public release | Jurisdiction Compiler workspace (planned, **not filed**): compiler design notes, draft-claim-to-adapter traceability, prior-art log. See [PATENTS.md](PATENTS.md) Section 3. |
 
 
