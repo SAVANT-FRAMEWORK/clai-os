@@ -48,10 +48,32 @@ roadmap: every planned subsystem is listed by name and marked
 `PENDING — progressive public release` until its artifacts land. Nothing here
 pretends to be what it is not.
 
+## The CLAI Prompt Corpus (P51–P110)
+
+**CLAI prompts exist only in the P51–P110 range** (author ruling 2026-10-12).
+The SAVANT FRAMEWORK operations registry (P01–P50) lives in
+[`savant-prompts`](https://github.com/SAVANT-FRAMEWORK/savant-prompts) — the
+two registries are distinct and must not be conflated.
+
+- **P51–P70 — AGPL-3.0, open** ([`prompts/`](prompts/)): the complete open
+  tier. Each artifact carries the authentic base prompt (verbatim), the
+  Global Equity variant (low-resource, offline-first), the Advanced Markets
+  variant (US & Asia-Pacific), a ten-regime jurisdiction matrix, architecture,
+  methodology, merits, and guidance for use.
+- **P61–P70 jurisdiction compliance notes** ([`compliance/`](compliance/)):
+  per-prompt regime maps — HIPAA, GDPR, NDPR, Kenya DPA, India DPDP, LGPD,
+  PDPL, PIPL, APPI, tribal/community consent.
+- **P71–P110 — open documentation release** ([`prompts/`](prompts/)):
+  de-commercialized per author ruling 2026-10-12; prompt bodies withheld,
+  names, methodologies, and merits published so the designs can be examined
+  and validated.
+
 ## Repository Contents
 
 | Path | Contents |
 |------|----------|
+| [prompts/](prompts/) | The CLAI prompt corpus P51–P110 (see above) |
+| [compliance/](compliance/) | Jurisdiction compliance notes P61–P70 |
 | [LICENSE](LICENSE) | Dual license: AGPL-3.0 OR Savant-Commercial-1.0 |
 | [GOVERNANCE.md](GOVERNANCE.md) | Constitutional governance (SPOS / SIP / S50 gates) |
 | [TRADEMARK.md](TRADEMARK.md) | Trademark policy |
