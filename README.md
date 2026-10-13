@@ -96,6 +96,7 @@ two registries are distinct and must not be conflated.
 |----------|------|
 | Organization | https://github.com/SAVANT-FRAMEWORK |
 | Documentation | https://savant-framework.github.io/savant-docs/ |
+| Publications (Zenodo corpus, 16 works, CC-BY-4.0) | https://savant-framework.github.io/savant-docs/publications/ |
 | Live demo | https://savant-framework.github.io/savant-demo/ |
 | Prompt library | https://github.com/SAVANT-FRAMEWORK/savant-prompts |
 | Companion hardware mesh | AEGIS-NG (sovereign node infrastructure) |
